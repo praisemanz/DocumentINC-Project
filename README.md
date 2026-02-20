@@ -1,1 +1,1 @@
-Patterns of Object-oriented programming
+ Object-oriented software engineering project: Doc.inc company digitizing statement delivery
