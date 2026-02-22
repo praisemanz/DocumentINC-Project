@@ -1,3 +1,11 @@
+com/docinc/Customer.class
+com/docinc/User.class
+com/docinc/AuditLog.class
+com/docinc/Notification.class
+com/docinc/Statement.class
+com/docinc/Admin.class
+com/docinc/Account.class
 com/docinc/DocumentService.class
 com/docinc/AuthenticationService.class
-com/docinc/Statement.class
+com/docinc/Reports.class
+com/docinc/DocumentMetadata.class

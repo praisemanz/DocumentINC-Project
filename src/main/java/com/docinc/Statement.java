@@ -1,4 +1,5 @@
 package com.docinc;
+
 import java.util.Date;
 
 public class Statement {

@@ -1,4 +1,4 @@
-package src;
+package com.docinc;
 import java.util.Date;
 
 public class Reports {
