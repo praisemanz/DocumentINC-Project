@@ -14,4 +14,14 @@ public class StatementTest {
 
         assertEquals("sample.pdf", result);
     }
+
+    @Test
+    public void testDownloadReturnsNullWhenNoPdfSet() {
+        Statement stmt = new Statement();
+        stmt.pdfPath = null;
+
+        String result = stmt.download();
+
+        assertNull(result);
+    }
 }
