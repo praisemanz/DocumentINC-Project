@@ -1,7 +1,8 @@
-package src;
+package com.docinc;
+
 public class DocumentService {
 
-	public void retrievePDF() {
+	public String retrievePDF() {
 		// TODO - implement DocumentService.retrievePDF
 		throw new UnsupportedOperationException();
 	}

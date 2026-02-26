@@ -1,4 +1,4 @@
-package src;
+package com.docinc;
 public class Admin extends User {
 
 	public void manageUsers() {
